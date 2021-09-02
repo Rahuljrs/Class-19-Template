@@ -127,7 +127,7 @@ a{
     
     
 }
-li.b:active a {
+.header_menu ul li a.active{
     color:#c9934f;
 }
 
