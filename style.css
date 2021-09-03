@@ -229,6 +229,7 @@ a{
 }
 .service_item:hover{
     background-color: #e9e6e5;
+    cursor: pointer;
 }
 .service_item:hover .s_btn.b_btn{
     background-color: #fff;
